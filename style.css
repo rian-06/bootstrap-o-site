@@ -1,0 +1,24 @@
+header {
+    height: 200px;
+    background-color: aliceblue;
+}
+
+main {
+    height: 200px;
+    background-color:royalblue ;
+}
+
+aside { 
+    height: 200px;
+    background-color: mediumslateblue;
+}
+
+aside section {
+    background-color:darkslateblue;
+    height: 50px;
+}
+
+footer {
+    height: auto;
+    background-color: slateblue;
+}
