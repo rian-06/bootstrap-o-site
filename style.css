@@ -34,11 +34,17 @@ footer {
 .searchbar {
     width: 100%;
     margin-top: 2.5%;
-    border-radius: 5%;
+    border-radius: 25px;
 }
 
-.imgaside {
-    border-radius: 30%;
+.img-aside {
+    border-radius: 25px;
 }
 
+.card-text1 {
+    color: black;
+}
 
+.card-title1 {
+    color: black;
+}
