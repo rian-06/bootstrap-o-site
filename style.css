@@ -48,3 +48,20 @@ footer {
 .card-title1 {
     color: black;
 }
+
+#mainrap {
+    background-color: #ff9934;
+}
+
+#asiderap {
+    background-color: #cde54e;
+}
+
+.asidesectionrap {
+    background-color: #b3c631;
+    height: auto;
+}
+
+#footerrap {
+    background-color: #ffc018;
+}
